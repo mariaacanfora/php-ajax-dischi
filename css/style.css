@@ -1,0 +1,19 @@
+.bg-header{
+    background-color: #2b3a46;
+}
+
+header img{
+    height: 50px;
+}
+
+.bg-main{
+    background-color: #192d3b;
+}
+
+.text-card{
+    color: #808078;
+}
+
+.pb-card{
+    min-height: 385px;
+}
