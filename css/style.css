@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .bg-header{
     background-color: #2b3a46;
 }
@@ -8,6 +14,10 @@ header img{
 
 .bg-main{
     background-color: #192d3b;
+}
+
+main h4{
+    font-size: 1.3rem !important;
 }
 
 .text-card{

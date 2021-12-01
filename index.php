@@ -11,9 +11,9 @@ include_once __DIR__ . "/components/pageHead.php"
 ?>
 
 <body>
-    <header class="bg-header p-3">
-        <img src="assets/img/spotify-logo.png" alt="spotify's logo">
-    </header>
+    <?php
+    include_once __DIR__ . "/components/header.php"
+    ?>
 
     <main class="bg-main p-5">
         <div class="container text-center">
